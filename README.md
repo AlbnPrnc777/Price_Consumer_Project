@@ -122,7 +122,7 @@ Price_Consumer_Project/
 ---
 
 ## License
-This project is licensed under the [MIT License](MITLICENSE). See the LICENSE file for details.
+This project is licensed under the [MIT License](MITLicense.txt). See the LICENSE file for details.
 
 
 ---
